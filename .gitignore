@@ -1,3 +1,9 @@
+
+bin
+.project
+.classpath
+.gitattributes
+
 # Compiled class file
 *.class
 
